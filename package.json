@@ -1,0 +1,23 @@
+{
+  "name": "passport-auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^2.14.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaduz001/Passport-Auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaduz001/Passport-Auth/issues"
+  },
+  "homepage": "https://github.com/vaduz001/Passport-Auth#readme"
+}
